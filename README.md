@@ -1,1 +1,0 @@
-# -SolsticeH-Android.
